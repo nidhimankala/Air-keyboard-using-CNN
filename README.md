@@ -10,3 +10,31 @@ Generate_dataset.py - We’ve used a POSNET model to detect the pose of the hand
 Train.py - We’ve experimented with 2 different CNN architectures to find its use in handwritten letter detection. The first one was a simple CNN architecture with no additional layers to improve the accuracy. This model had an accuracy of 99%, but was not robust enough when tried in real-time. The second architecture is a modified version of LeNet5 architecture used to detect MNIST letters, which we modified to detect letters. This had similar accuracy scores but was much more resistant to discrepancies while typing in real-time.
 
 Test.py - We have used the same methodology used in Generate_dataset.py to detect the inder finger tip. This was used to draw the letter on a black test screen. This image is then sent to the model trained to finally display the letter drawn as the output.
+
+## Model Architecture:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
