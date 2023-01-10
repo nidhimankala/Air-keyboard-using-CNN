@@ -11,9 +11,6 @@ Train.py - We’ve experimented with 2 different CNN architectures to find its u
 
 Test.py - We have used the same methodology used in Generate_dataset.py to detect the inder finger tip. This was used to draw the letter on a black test screen. This image is then sent to the model trained to finally display the letter drawn as the output.
 
-## Model Architecture:
-
-
 
 
 
